@@ -158,4 +158,4 @@ chatBot-main-main/
 
 ## License
 
-MIT © \[Your Name]
+MIT © \[Rohit Gupta]
