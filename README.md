@@ -157,5 +157,4 @@ chatBot-main-main/
 5. Open a Pull Request
 
 ## License
-
-MIT © \[Rohit Gupta]
+MIT © \Rohit Gupta
